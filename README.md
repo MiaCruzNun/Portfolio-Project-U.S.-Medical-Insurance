@@ -17,4 +17,4 @@ En 2020, el 22,3% de la población mundial consumía tabaco, concretamente el 36
 Para hacer frente a la epidemia de tabaquismo, los Estados Miembros de la OMS adoptaron en 2003 el Convenio Marco de la OMS para el Control del Tabaco (CMCT de la OMS), tratado que actualmente han ratificado 182 países.
 
 
-En este proyecto trata de obtener las variables más influencibales para que el costo del seguro médico aumente.
+En este proyecto se estudian y obtienen las variables más influencibales para que el costo del seguro médico aumente.
